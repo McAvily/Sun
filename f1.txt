@@ -52,3 +52,4 @@ The enormous effect of the Sun on Earth has been recognized since prehistoric ti
 <a href='#' class='btn btn-success btn-lg'>Start Your Coding Journey With Codingal</a>
 <h3> East or West COdingal is the best </h3>
 <footer class='blockquote-footer'>Internet</footer>
+<code> Hacker on your computer </code>
